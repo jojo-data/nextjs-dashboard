@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "next/core-web-vitals"
+    // // https://github.com/vercel/next.js/issues/68884
+    // // TypeScript version not supported by @typescript-eslint/typescript-estree.
+    // "next/typescript"
+  ]
+}
